@@ -6,6 +6,7 @@
   "repository": "https://github.com/simmi-14/infoossimmiii.git",
   "author": "Simmiii",
   "license": "MIT",
+  "keywords": ["os", "demo", "yarn course"],
   "dependencies": {
     "chalk": "4.1.2"
   }
